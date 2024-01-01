@@ -72,6 +72,10 @@ header .content {
     max-width: 1440px;
     padding: 1rem 0;
 }
+header .content:hover {
+   color:red;
+}
+
 
 .content {
     display: flex;
